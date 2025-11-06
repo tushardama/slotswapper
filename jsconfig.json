@@ -1,0 +1,15 @@
+{
+  /**
+   * JavaScript Configuration
+   * 
+   * Configures JavaScript language features and module resolution:
+   * - Path aliases for simplified imports
+   * - Base URL configuration
+   * - Module resolution settings
+   */
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"] // Enable @ alias for root-relative imports
+    }
+  }
+}

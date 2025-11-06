@@ -1,0 +1,29 @@
+/**
+ * Global CSS Styles
+ * 
+ * Core application styling and theme configuration.
+ * Defines:
+ * - Theme variables and color scheme
+ * - Global typography settings
+ * - Common interactive element behavior
+ * - Base layout properties
+ */
+
+@import "tailwindcss";
+
+/* Theme Configuration */
+@theme {
+	--color-primary: #3b82f6;    /* Primary brand color - Blue 500 */
+	--color-background: #f9fafb; /* Default background - Gray 50 */
+}
+
+/* Base Styles */
+body {
+	@apply bg-background text-gray-800 font-sans;
+}
+
+/* Interactive Elements */
+button,
+input {
+	@apply transition-all duration-200 ease-in-out;
+}
