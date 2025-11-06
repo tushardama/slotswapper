@@ -316,54 +316,6 @@ slotswapper/
 ```
 
 ---
-
-## 🎨 Screenshots
-
-### Landing Page
-*Clean and modern landing page with call-to-action*
-
-### Calendar View
-*Interactive calendar displaying all user events with color-coded status*
-
-### Swap Request Modal
-*Easy-to-use interface for requesting and managing swaps*
-
-### Event Creation
-*Simple form for creating new events with validation*
-
-*Note: Add actual screenshots by placing images in `/public/screenshots/` and updating paths*
-
----
-
-## 🚧 Roadmap
-
-- [ ] Email notifications for swap requests
-- [ ] Real-time updates with WebSockets
-- [ ] Event recurrence (weekly/monthly)
-- [ ] Calendar export (iCal format)
-- [ ] Mobile app (React Native)
-- [ ] Advanced filtering and search
-- [ ] User profiles and ratings
-- [ ] Admin dashboard
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
@@ -372,14 +324,3 @@ This project is licensed under the MIT License.
 - GitHub: [@tushardama](https://github.com/tushardama)
 
 ---
-
-## 🙏 Acknowledgments
-
-- Next.js team for the amazing framework
-- Vercel for hosting platform
-- MongoDB for database solutions
-- The open-source community
-
----
-
-**Built with ❤️ using Next.js and MongoDB**
