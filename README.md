@@ -105,29 +105,6 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🌐 Online Access
-
-**Live Demo:** [Coming Soon]
-
-*Note: If deployed on Vercel/Netlify, the URL will be available here*
-
----
-
-## 👥 Sample User Accounts
-
-For testing purposes, you can use these sample accounts:
-
-| Name | Email | Password |
-|------|-------|----------|
-| Alice Johnson | alice@example.com | alice123 |
-| Bob Smith | bob@example.com | bob123 |
-| Carol White | carol@example.com | carol123 |
-| David Brown | david@example.com | david123 |
-
-*Note: These accounts need to be created manually through the signup page or seeded in the database.*
-
----
-
 ## 📖 Application Flow
 
 ### 1. Authentication Flow
